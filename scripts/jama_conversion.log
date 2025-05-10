@@ -1,0 +1,23 @@
+2025-05-09 21:41:42,216 - INFO - Successfully extracted 11 sections from manuscript
+2025-05-09 21:41:42,223 - INFO - Page numbers added successfully
+2025-05-09 21:41:42,224 - INFO - Title page processed successfully
+2025-05-09 21:41:42,225 - INFO - Abstract page processed successfully
+2025-05-09 21:41:42,229 - INFO - Abbreviations section processed successfully
+2025-05-09 21:41:42,229 - INFO - Declarations section processed successfully
+2025-05-09 21:41:42,230 - INFO - References section processed successfully
+2025-05-09 21:41:42,230 - INFO - Paragraphs processed successfully
+2025-05-09 21:41:42,237 - INFO - Document successfully converted and saved to /Users/stillwell/Documents/Google Drive/Project 31 - Pregnancy as exclusion/JAMA_submission/manuscript/manuscript_jama.docx
+2025-05-09 21:47:06,526 - INFO - Starting JAMA document conversion
+2025-05-09 21:47:06,526 - INFO - Converting manuscript...
+2025-05-09 21:47:06,527 - INFO - Successfully extracted 11 sections from manuscript
+2025-05-09 21:47:06,532 - INFO - Page numbers added successfully
+2025-05-09 21:47:06,533 - INFO - Title page processed successfully
+2025-05-09 21:47:06,535 - INFO - Abstract page processed successfully
+2025-05-09 21:47:06,538 - INFO - Abbreviations section processed successfully
+2025-05-09 21:47:06,539 - INFO - Declarations section processed successfully
+2025-05-09 21:47:06,539 - INFO - References section processed successfully
+2025-05-09 21:47:06,540 - INFO - Paragraphs processed successfully
+2025-05-09 21:47:06,547 - INFO - Document successfully converted and saved to /Users/stillwell/Documents/Google Drive/Project 31 - Pregnancy as exclusion/JAMA_submission/manuscript/manuscript_jama.docx
+2025-05-09 21:47:06,547 - INFO - Converting cover letter...
+2025-05-09 21:47:06,563 - INFO - Cover letter successfully converted and saved to /Users/stillwell/Documents/Google Drive/Project 31 - Pregnancy as exclusion/JAMA_submission/manuscript/cover_letter.docx
+2025-05-09 21:47:06,563 - INFO - All documents converted successfully

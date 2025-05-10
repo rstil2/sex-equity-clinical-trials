@@ -1,0 +1,154 @@
+{
+    "sex_distribution": {
+        "Both Sexes": 1691,
+        "Male Only": 72,
+        "Female Only": 61,
+        "Unknown": 1
+    },
+    "sex_percentages": {
+        "Both Sexes": 92.7,
+        "Male Only": 3.9,
+        "Female Only": 3.3,
+        "Unknown": 0.1
+    },
+    "disease_sex_counts": {
+        "Both Sexes": {
+            "COVID-19": 309,
+            "Cancer": 55,
+            "Cardiovascular": 13,
+            "Diabetes": 1,
+            "HIV/AIDS": 559,
+            "Infectious Disease": 99,
+            "Mental Health": 3,
+            "Other": 623,
+            "Respiratory": 29
+        },
+        "Female Only": {
+            "COVID-19": 1,
+            "Cancer": 2,
+            "Cardiovascular": 0,
+            "Diabetes": 0,
+            "HIV/AIDS": 33,
+            "Infectious Disease": 3,
+            "Mental Health": 0,
+            "Other": 22,
+            "Respiratory": 0
+        },
+        "Male Only": {
+            "COVID-19": 0,
+            "Cancer": 2,
+            "Cardiovascular": 0,
+            "Diabetes": 0,
+            "HIV/AIDS": 61,
+            "Infectious Disease": 0,
+            "Mental Health": 0,
+            "Other": 9,
+            "Respiratory": 0
+        },
+        "Unknown": {
+            "COVID-19": 0,
+            "Cancer": 0,
+            "Cardiovascular": 0,
+            "Diabetes": 0,
+            "HIV/AIDS": 0,
+            "Infectious Disease": 0,
+            "Mental Health": 0,
+            "Other": 1,
+            "Respiratory": 0
+        }
+    },
+    "disease_sex_percentages": {
+        "Both Sexes": {
+            "COVID-19": 99.7,
+            "Cancer": 93.2,
+            "Cardiovascular": 100.0,
+            "Diabetes": 100.0,
+            "HIV/AIDS": 85.6,
+            "Infectious Disease": 97.1,
+            "Mental Health": 100.0,
+            "Other": 95.1,
+            "Respiratory": 100.0
+        },
+        "Female Only": {
+            "COVID-19": 0.3,
+            "Cancer": 3.4,
+            "Cardiovascular": 0.0,
+            "Diabetes": 0.0,
+            "HIV/AIDS": 5.1,
+            "Infectious Disease": 2.9,
+            "Mental Health": 0.0,
+            "Other": 3.4,
+            "Respiratory": 0.0
+        },
+        "Male Only": {
+            "COVID-19": 0.0,
+            "Cancer": 3.4,
+            "Cardiovascular": 0.0,
+            "Diabetes": 0.0,
+            "HIV/AIDS": 9.3,
+            "Infectious Disease": 0.0,
+            "Mental Health": 0.0,
+            "Other": 1.4,
+            "Respiratory": 0.0
+        },
+        "Unknown": {
+            "COVID-19": 0.0,
+            "Cancer": 0.0,
+            "Cardiovascular": 0.0,
+            "Diabetes": 0.0,
+            "HIV/AIDS": 0.0,
+            "Infectious Disease": 0.0,
+            "Mental Health": 0.0,
+            "Other": 0.2,
+            "Respiratory": 0.0
+        }
+    },
+    "female_inclusion_by_disease": {
+        "COVID-19": 100.0,
+        "Cancer": 96.6,
+        "Cardiovascular": 100.0,
+        "Diabetes": 100.0,
+        "HIV/AIDS": 90.7,
+        "Infectious Disease": 100.0,
+        "Mental Health": 100.0,
+        "Other": 98.5,
+        "Respiratory": 100.0
+    },
+    "phase_sex_counts": {
+        "Both Sexes": {
+            "Other": 1691
+        },
+        "Female Only": {
+            "Other": 61
+        },
+        "Male Only": {
+            "Other": 72
+        },
+        "Unknown": {
+            "Other": 1
+        }
+    },
+    "phase_sex_percentages": {
+        "Both Sexes": {
+            "Other": 92.7
+        },
+        "Female Only": {
+            "Other": 3.3
+        },
+        "Male Only": {
+            "Other": 3.9
+        },
+        "Unknown": {
+            "Other": 0.1
+        }
+    },
+    "female_inclusion_by_phase": {
+        "Other": 96.0
+    },
+    "gii_categories": [
+        "Low GII"
+    ],
+    "country_distribution": {
+        "USA": 1825
+    }
+}
